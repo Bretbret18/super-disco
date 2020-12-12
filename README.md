@@ -3,3 +3,6 @@ columns that represent each hour of the work day. Users can schedule and save in
 for each hour. The past, present, and future time is highlighted with assigned colors to 
 make the user aware of time! Information added by the user is saved in local storage and
 will remain, regardless if the page is refreshed. 
+
+Deployed Site:
+https://bretbret18.github.io/super-disco/
