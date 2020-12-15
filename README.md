@@ -5,4 +5,4 @@ make the user aware of time! Information added by the user is saved in local sto
 will remain, regardless if the page is refreshed. 
 
 Deployed Site:
-https://bretbret18.github.io/super-disco/
+bretbret18.github.io/super-disco/
